@@ -1,0 +1,1 @@
+import{n as e,t}from"#entry";import{t as n}from"./BDNMzG2s.js";var r={};function i(n,r){return e(),t(`h1`,null,`Index`)}var a=n(r,[[`render`,i]]);export{a as default};
