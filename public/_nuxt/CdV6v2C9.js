@@ -1,0 +1,1 @@
+import{i as e,n as t,r as n,t as r}from"#entry";var i={};function a(r,i){return n(),t(`div`,null,[e(r.$slots,`default`)])}var o=r(i,[[`render`,a]]);export{o as default};
