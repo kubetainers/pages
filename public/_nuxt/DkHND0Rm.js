@@ -1,1 +1,0 @@
-import{n as e,r as t,t as n}from"#entry";var r={};function i(n,r){return t(),e(`h1`,null,`Index`)}var a=n(r,[[`render`,i]]);export{a as default};

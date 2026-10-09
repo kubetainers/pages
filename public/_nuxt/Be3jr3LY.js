@@ -1,0 +1,1 @@
+import{c as e,f as t,p as n,t as r}from"#entry";var i={},a={class:`mx-auto w-full max-w-(--breakpoint-xl) px-5`};function o(r,i){return t(),e(`div`,a,[n(r.$slots,`default`)])}var s=Object.assign(r(i,[[`render`,o]]),{__name:`BaseContainer`});export{s as t};
